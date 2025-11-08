@@ -37,4 +37,5 @@ API financeira simples para gerenciamento de contas bancárias, depósitos, saqu
 - **nodemon**
 - **JavaScript**
 - **npm**
+- **Insomnia**
 
