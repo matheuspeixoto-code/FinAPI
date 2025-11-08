@@ -1,6 +1,6 @@
 # 💰 FinAPI
 
-API financeira simples para gerenciamento de contas bancárias, depósitos, saques e consultas de extrato.
+API financeira desenvolvida em Node.js utilizando armazenamento em memória (vetores) para simular o banco de dados, permitindo criar contas, realizar depósitos, saques e consultar extratos.
 
 ---
 
